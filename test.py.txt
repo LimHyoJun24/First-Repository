@@ -1,5 +1,10 @@
 def print_hello():
    print("Hello World!!")
 
+def print_GW():
+   print("Goodbye World!")
+
 if __name__ =='__main__':
    print_hello()
+
+print_GW
